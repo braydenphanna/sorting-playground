@@ -1,0 +1,13 @@
+E:\CS2\TheSorts\TheSorts\bin\Debug\netcoreapp3.1\TheSorts.exe
+E:\CS2\TheSorts\TheSorts\bin\Debug\netcoreapp3.1\TheSorts.deps.json
+E:\CS2\TheSorts\TheSorts\bin\Debug\netcoreapp3.1\TheSorts.runtimeconfig.json
+E:\CS2\TheSorts\TheSorts\bin\Debug\netcoreapp3.1\TheSorts.runtimeconfig.dev.json
+E:\CS2\TheSorts\TheSorts\bin\Debug\netcoreapp3.1\TheSorts.dll
+E:\CS2\TheSorts\TheSorts\bin\Debug\netcoreapp3.1\TheSorts.pdb
+E:\CS2\TheSorts\TheSorts\obj\Debug\netcoreapp3.1\TheSorts.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS2\TheSorts\TheSorts\obj\Debug\netcoreapp3.1\TheSorts.AssemblyInfoInputs.cache
+E:\CS2\TheSorts\TheSorts\obj\Debug\netcoreapp3.1\TheSorts.AssemblyInfo.cs
+E:\CS2\TheSorts\TheSorts\obj\Debug\netcoreapp3.1\TheSorts.csproj.CoreCompileInputs.cache
+E:\CS2\TheSorts\TheSorts\obj\Debug\netcoreapp3.1\TheSorts.dll
+E:\CS2\TheSorts\TheSorts\obj\Debug\netcoreapp3.1\TheSorts.pdb
+E:\CS2\TheSorts\TheSorts\obj\Debug\netcoreapp3.1\TheSorts.genruntimeconfig.cache
